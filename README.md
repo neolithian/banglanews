@@ -8,7 +8,7 @@ The easiest way to install it from a Python 3 environment using the following co
 
 <code>pip install banglanews</code><br>
 
-Alternatively, you can download the package <b><a href=https://github.com/neolithian/banglanews/blob/main/banglanews-0.0.1.tar.gz>banglanews-0.0.1.tar.gz</a></b> and put it in a directory. From any Python 3 environment open a terminal, go to that directory where you put the package and install the package using the following command:<br>
+Alternatively, you can download the package <b><a href=https://github.com/neolithian/banglanews/blob/main/banglanews-0.0.2.tar.gz>banglanews-0.0.2.tar.gz</a></b> and put it in a directory. From any Python 3 environment open a terminal, go to that directory where you put the package and install the package using the following command:<br>
 
 <code>pip install banglanews-0.0.1.tar.gz</code><br>
 
@@ -46,7 +46,7 @@ The above call will create a .csv file in the <code>output_dir</code> location p
 
 # Version information<br>
 
-Latest version: 0.0.1<br>
+Latest version: 0.0.2<br>
 Previous versions:
 
 
